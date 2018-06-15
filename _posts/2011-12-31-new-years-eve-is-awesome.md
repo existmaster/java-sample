@@ -1,3 +1,12 @@
+---
+published: true
+layout: single
+title: "first posting"
+category: post
+tags:
+comments: true
+---
+
 # A!
 ## A!
 - 나는 밥을 먹었다
