@@ -7,6 +7,6 @@
 - This is java-sample
 - issue
 - issue
-- issue
+- issued
 - issue
 ///
